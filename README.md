@@ -39,6 +39,3 @@ Raw CSV → Bronze → Silver → Gold
 ```bash
 python src/main.py
 ```
-
-## Resume Highlight
-Built a PySpark data pipeline implementing Bronze, Silver, and Gold layers with parquet-based storage and business-level aggregations.
